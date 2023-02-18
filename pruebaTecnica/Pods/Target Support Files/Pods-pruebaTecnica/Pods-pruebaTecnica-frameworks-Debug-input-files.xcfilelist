@@ -1,0 +1,9 @@
+${PODS_ROOT}/Target Support Files/Pods-pruebaTecnica/Pods-pruebaTecnica-frameworks.sh
+${BUILT_PRODUCTS_DIR}/DynamicBlurView/DynamicBlurView.framework
+${BUILT_PRODUCTS_DIR}/JWTDecode/JWTDecode.framework
+${BUILT_PRODUCTS_DIR}/MarqueeLabel/MarqueeLabel.framework
+${BUILT_PRODUCTS_DIR}/NotificationBannerSwift/NotificationBannerSwift.framework
+${BUILT_PRODUCTS_DIR}/PopupDialog/PopupDialog.framework
+${BUILT_PRODUCTS_DIR}/Simple-Networking/Simple_Networking.framework
+${BUILT_PRODUCTS_DIR}/SnapKit/SnapKit.framework
+${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework
